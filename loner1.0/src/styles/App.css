@@ -12,7 +12,7 @@
 }
 
 body {
-  background: #f6f5f7;
+  background-color: RGB(18,18,18);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -257,3 +257,4 @@ footer a {
   color: #3c97bf;
   text-decoration: none;
 }
+
